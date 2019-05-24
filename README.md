@@ -7,7 +7,7 @@ Package infrastructure was created with [pkgKitten](https://cran.r-project.org/p
 ## to build this package
 
 
-| make <target>         |  create or do                          |
+| `make <target>`       |  create or do                          |
 |-----------------------|----------------------------------------|
 | doc                   |  `.Rd` files                           |
 | pkg                   |  pkg tarball                           |
