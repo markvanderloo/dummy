@@ -7,12 +7,12 @@ Package infrastructure was created with [pkgKitten](https://cran.r-project.org/p
 ## to build this package
 
 
-| Command               |  what                                  |
+| make <target>         |  create or do                          |
 |-----------------------|----------------------------------------|
-| make doc              |  `.Rd` files                           |
+| doc                   |  `.Rd` files                           |
 | pkg                   |  pkg tarball                           |
 | check                 | tarball and run `R CMD check`          |
 | cran                  | tarbaal and run `R CMD check --as-cran |
-| test                  | run `tinytest::build_install_test`     |
+| test                  | `tinytest::build_install_test`         |
 | manual                | create pdf manual and open it          |
 
