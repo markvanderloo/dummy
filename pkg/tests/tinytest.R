@@ -1,6 +1,6 @@
 
-if (require(tinytest, quietly=TRUE)){
-   test_package("dummy")
+if (requireNamespace("tinytest", quietly=TRUE)){
+   tinytest::test_package("dummy")
 }
 
 
