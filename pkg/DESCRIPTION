@@ -7,4 +7,5 @@ Author: Mark van der Loo
 Maintainer: Mark van der Loo <mark.vanderloo@gmail.com>
 Description: Just sit around, looking pretty.
 License: GPL-3
+Suggests: tinytest
 RoxygenNote: 6.1.1
