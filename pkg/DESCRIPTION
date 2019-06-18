@@ -1,7 +1,7 @@
 Package: dummy
 Type: Package
 Title: Dummy Package
-Version: 1.0
+Version: 1.0.0
 Date: 2019-05-20
 Author: Mark van der Loo
 Maintainer: Mark van der Loo <mark.vanderloo@gmail.com>
@@ -9,3 +9,4 @@ Description: Just sit around, looking pretty.
 License: GPL-3
 Suggests: tinytest
 RoxygenNote: 6.1.1
+Encoding: UTF-8
